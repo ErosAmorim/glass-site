@@ -1,0 +1,21 @@
+@chaset "UTF-8
+
+body{
+	background-color: white;
+}
+		p {
+			text-align: justify;
+			text-indent: 30px;
+		}
+
+/* Formatação de imagem */
+
+figure.t01{
+	border: 8px solid white;
+	box-shadow: 1px 1px 4px blacks;
+}
+
+figure.t01 img{
+	width: 100%;
+	height: 100%;
+}
