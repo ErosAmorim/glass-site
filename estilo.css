@@ -31,13 +31,13 @@ header#cabecalho img#icone {
 header#cabecalho {
 	border-bottom: 1px #606060 solid;
 	height: 150px;
-	background: url("\glass-logo-peq.jpg")no-repeat 0px 80px;
+	background: url("glass-logo-peq.jpg")no-repeat 0px 80px;
 }
 
 header#cabecalho h1 {
 	font-family: 'font logo', sans-serif;
 	color: #606060;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
 	padding: 0px;
 	margin-bottom: 0px;
 }
@@ -45,7 +45,7 @@ header#cabecalho h1 {
 header#cabecalho h2 {
 	font-family: 'Titillium Web',sans-serif;
 	color: #888888;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 	padding: 0px;
 	margin-top: 0px;
 }
@@ -111,7 +111,7 @@ section#corpo {
 }
 
 article#noticia-principal h2 {
-	color: #606060;
+	color: #000000;
 	margin: auto;
 	background-color: #dddddd;
 	font-size: 20pt;

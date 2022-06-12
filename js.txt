@@ -1,0 +1,15 @@
+Com HTML5 já é o script padrão, não sendo necessário fazer nenhuma configuração.
+
+O posicionamento dos elementos alteram o resultado.
+
+Tudo que for css3 tem que ta dentro do parâmetro style.
+
+document.____ - É o objeto principal que representa o documento html que estamos trabalhando.
+
+Tudo que for javascript deve ta dentro do parâmetro script ou específicos.
+
+Não há limite pra quantida de tag script.
+
+Manipula objetos que estão no navegador, dando para pegar informações que a web tambem consegue obter.
+
+<articles> - Artigo

@@ -6,6 +6,11 @@
 	<title>Tudo sobre google glass</title>
 	<link rel="stylesheet"  href="estilo.css"/>
 </head>
+<script>
+	function mudaFoto (foto) {
+	document.getElementById('icone').src = foto
+	}
+</script>
 <body>
 <div id="interface">	
 <header id="cabecalho">	
@@ -19,11 +24,12 @@
 	<nav id="menu">
 	<h1>Menu Principal</h1>
 	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="specs.html">Especificações</a></li>
-		<li><a href="fotos.html">Fotos</a></li>	
-		<li><a href="multimidia.html">Multimídia</a></li>
-		<li><a href= "fale-conosco.html">Fale conosco</a></li>
+		<li onmouseover="mudaFoto('_imagens/home.png')" onmouseout="mudaFoto('glass-oculos-preto-peq.png')"><a href="index.html">Home</a>
+		</li>
+		<li onmouseover="mudaFoto('_imagens/especificacoes.png')" onmouseout="mudaFoto('glass-oculos-preto-peq.png')"><a href="specs.html">Especificações</a></li>
+		<li onmouseover="mudaFoto('_imagens/fotos.png')" onmouseout="mudaFoto('glass-oculos-preto-peq.png')"><a href="fotos.html">Fotos</a></li>	
+		<li onmouseover="mudaFoto('_imagens/multimidia.png')" onmouseout="mudaFoto('glass-oculos-preto-peq.png')"><a href="multimidia.html">Multimídia</a></li>
+		<li onmouseover="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('glass-oculos-preto-peq.png')"><a href= "fale-conosco.html">Fale conosco</a></li>
 	</ul>
 	</nav>
 		
@@ -60,7 +66,7 @@
 	<h2>Como funciona ?</h2>
 	<p>De acordo com fontes próximas do Google, os óculos vão contar com uma pequena tela de LCD ou AMOLED na parte superior e em frente aos olhos do usuário. Com o uso de uma câmera e GPS, você pode se situar, assim como selecionar opções com o movimento da cabeça.</p>
 
-	<h2>O pode ser feito com o Google Glasses ? </h2>
+	<h2>O pode ser feito com o Google Glasses?</h2>
 	<p>O vídeo de divulgação do Google mostra que você pode se transformar em uma espécie de “super<wbr/>-humano”, já que o aparelho pode indicar a quantos metros você está de seu destino, se o metrô está aberto ou fechado, mostrar o clima, agenda e até mesmo permitir que você marque encontros apenas com comandos de voz.</p>
 
 	[AQUI ENTRA UM VÍDEO]

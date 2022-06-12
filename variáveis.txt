@@ -1,0 +1,19 @@
+<nav> - titulo de navegação /menu de navegação
+
+lista ol - ordenada, há tipos.
+
+lista ul - não ordenada, há dermacadores e tipos .
+
+<a href> - link para referência externa do meu site.
+
+<a href="" target="blank">nome do meu site<</a> - Abre em outra pasta a referência. 
+
+Trabalhando com tabela:
+
+Quando trabalhamos com tabela as informações podem ficar um pouco confusas e há vários parâmetros para ajusta-la.
+
+rowspan="x" - com isto formatos a célula  para ter a variavel x de alocação no espaço.
+
+colspan="x" - formata a celula para ocupar a variável x de colunas
+
+são parâmetros apenas de td
