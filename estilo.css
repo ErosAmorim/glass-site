@@ -36,7 +36,7 @@ header#cabecalho {
 
 header#cabecalho h1 {
 	font-family: 'font logo', sans-serif;
-	color: #606060;
+	color: #888888;
 	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
 	padding: 0px;
 	margin-bottom: 0px;
@@ -44,7 +44,7 @@ header#cabecalho h1 {
 
 header#cabecalho h2 {
 	font-family: 'Titillium Web',sans-serif;
-	color: #888888;
+	color: #606060;
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 	padding: 0px;
 	margin-top: 0px;
@@ -111,12 +111,14 @@ section#corpo {
 }
 
 article#noticia-principal h2 {
-	color: #000000;
+	color: #888888;
 	margin: auto;
 	background-color: #dddddd;
 	font-size: 20pt;
-	padding: auto;
+	padding: 5px;
 	text-align: center;
+	font-family: 'Titillium Web',sans-serif;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 
 }
 

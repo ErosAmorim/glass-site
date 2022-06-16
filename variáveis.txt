@@ -17,3 +17,6 @@ rowspan="x" - com isto formatos a célula  para ter a variavel x de alocação n
 colspan="x" - formata a celula para ocupar a variável x de colunas
 
 são parâmetros apenas de td
+
+<area> - usado tambem para referencial de map
+Na area poligonal os pontos são referidos a quantidade de arestas/vértices

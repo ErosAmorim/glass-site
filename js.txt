@@ -13,3 +13,5 @@ Não há limite pra quantida de tag script.
 Manipula objetos que estão no navegador, dando para pegar informações que a web tambem consegue obter.
 
 <articles> - Artigo
+
+<iframe> - Exibe uma página web dentro da outra.
