@@ -20,3 +20,13 @@ são parâmetros apenas de td
 
 <area> - usado tambem para referencial de map
 Na area poligonal os pontos são referidos a quantidade de arestas/vértices
+
+source vem de origem.
+
+serviço de inclusão de videos
+
+usa-se o incorporar no site do video sugerido.
+
+Tags do tipo input devem ter type,name,id.
+
+<label> - Um elemento HTML <label> representa uma legenda para um item em uma interface de usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento label, ou usando o atributo for. Tal controle é chamado o controle etiquetado do elemento etiqueta. Um input pode ser associado a diversas etiquetas (<label>s).

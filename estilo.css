@@ -191,3 +191,17 @@ footer#rodape {
 footer#rodape h4{
 	text-align: center;
 }
+
+video#principal {
+	display: block;
+	position: relative;
+	padding: 5px;
+	left: 50px;
+}
+
+video#outro {
+	display: block;
+	position: relative;
+	padding: 5px;
+	left: 25px;
+}
