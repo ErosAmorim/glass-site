@@ -1,0 +1,62 @@
+Tag é tudo aquilo que se escreve entre <> com fechamento </>. Algumas tags não tem fechamento.
+
+Antes de começar o código é necessário fazer a configuração do editor de texto,passando como texto o tipo que será usado e a linguagem.
+
+Quando começar a escrever o código html é necessário fazer a configuração
+
+<!DOCTYPE html> - Orienta qual html estamos usando.
+
+<html lang="pt-br"> - Qual é o tipo de linguagem do site.
+
+Na parte comportamental:
+
+<meta charset="UTF-8"/> - Regras a orientação da linguagem, neste caso o português.
+
+<div> - faz uma divisão.
+
+Sempre que tiver títulos que fazem parte do mesmo grupo colocar em <hgroup> - isso gera um resultado semântico.
+
+HTML funciona através das marcas.
+
+<br/> - quebra de linhas.
+
+&nbsp; - Espaço em branco.
+
+<p> - indica que é um parágrafo.
+
+<wbr/> - quebra de palavras
+
+$shy - quebra rápida com hífen. 
+
+<b> deixa em negrito.
+
+<i> - itálico.
+
+<em>- Dar ênfase no termo(tem valor semântico).
+
+<span> - formata pequenas partes do texto.
+
+quando for mudar lgo que envolve a formatação do texto deve-se usar o método style="".
+
+<sup> - suprescrito.
+
+<pre> É escrito da forma na qual eu escrevi, considerando espaço etc.
+
+Ao formatar imagens é necessário o cuidado com o tipo de formatação. Png tem uma maior qualidade e possibilita o fundo transparente, pórem, é mais pesado que jpg.
+
+O cuidado com o tamanho da imagem também é necessário, pois, uma imagem muito grande pesa bastante.
+
+Mudar o tamanho atráves de um editor e após isso usar o salvamento para web.
+
+<figure> - Coloca uma legenda na imagem com figcaption. Dar um significado semântico para a foto. 
+
+Sempre que ultilizar o parâmetro class colocar o .___ seguido pelo mone da classe.
+
+Escrevendo o estilo no css3 e passando a classe é possível fazer com qualquer tipo de dado relativo da mesma class.
+
+Dar pra usar uma font direto do navegador.
+
+section - sessão
+aside - periférico
+footer - roda pé
+
