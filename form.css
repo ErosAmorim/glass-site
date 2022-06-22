@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+fieldset#mensagem textarea#cMens {
+	padding: 30px;
+	text-align: justify;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 1.0);
+	width: 400px;
+	
+}
+
+form {
+	width: 600px;
+	margin: auto;
+}
+
+input, textarea {
+	font-family: sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+input:hover, textarea:hover {
+	background-color: #dddddd;
+}
+
+legend {
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: sans-serif;
+	text-align: center;
+	color: #606060;
+}
+
+fieldset {
+	border-color: #cecece;
+	margin: 20px;
+}
+
+fieldset#sexo {
+	margin: 10px;
+	text-align: center;
+}
